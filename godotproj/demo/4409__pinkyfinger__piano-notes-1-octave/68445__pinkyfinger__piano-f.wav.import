@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/68445__pinkyfinger__piano-f.wav-63e8f4f14dbe6344dd058e9dfcfebcfe.sample"
+
+[deps]
+
+source_file="res://4409__pinkyfinger__piano-notes-1-octave/68445__pinkyfinger__piano-f.wav"
+dest_files=[ "res://.import/68445__pinkyfinger__piano-f.wav-63e8f4f14dbe6344dd058e9dfcfebcfe.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

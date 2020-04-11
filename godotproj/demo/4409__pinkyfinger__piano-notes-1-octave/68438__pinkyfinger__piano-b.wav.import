@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/68438__pinkyfinger__piano-b.wav-c7083ad138ff92a200a088f9c3d608a1.sample"
+
+[deps]
+
+source_file="res://4409__pinkyfinger__piano-notes-1-octave/68438__pinkyfinger__piano-b.wav"
+dest_files=[ "res://.import/68438__pinkyfinger__piano-b.wav-c7083ad138ff92a200a088f9c3d608a1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
